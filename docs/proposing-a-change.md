@@ -11,6 +11,10 @@ Below are the detals for each of the steps.
 
 ### Edit an article
 
+In order to edit any article you will need to have a GitHub account. If you don't, then it will be asked for right when you click an `edit` link.
+
+
+
 ### Open a pull request
 
 ### Have the changes approved
