@@ -1,4 +1,4 @@
-ggs.wiki uses GitHub to store and control its content. If you already familiar with git and knbow how to create pull request then you can skip this article.
+ggs.wiki uses GitHub to store and control its content. If you already familiar with git and know how to create pull request then you can skip this article.
 
 ## Proposing a change...
 
@@ -7,7 +7,7 @@ ggs.wiki uses GitHub to store and control its content. If you already familiar w
 2. [Open a pull request](#open-a-pull-request)
 3. [Have the changes approved](#have-the-changes-approved)
 
-Below are the detals for each of the steps.
+Below are the details for each of the steps.
 
 ### Edit an article
 
@@ -16,6 +16,8 @@ Everything starts with an `edit` button: ![Edit](https://i.imgur.com/49NCrpV.png
 Then you should see the article's source formatted in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
 Make desired modifications and save them by pressing yet another green button at the bottom `Propose file change`
+
+![Proposing a change](https://i.imgur.com/9MIMiBQ.png)
 
 ### Open a pull request
 
