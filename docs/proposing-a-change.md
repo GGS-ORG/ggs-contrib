@@ -11,9 +11,11 @@ Below are the detals for each of the steps.
 
 ### Edit an article
 
-In order to edit any article you will need to have a GitHub account. If you don't, then it will be asked for right when you click an `edit` link.
+Everything starts with an `edit` button: ![Edit](https://i.imgur.com/49NCrpV.png). Find it on any article and click to propose an update. It will redirect you to the proper article source hosted on GitHub and ask to log in there. If you don't have an account, you'll be asked to create one. If asked, press the big green button `Fork this repository and propose changes`
 
+Then you should see the article's source formatted in [Markdown](https://guides.github.com/features/mastering-markdown/).
 
+Make desired modifications and save them by pressing yet another green button at the bottom `Propose file change`
 
 ### Open a pull request
 
